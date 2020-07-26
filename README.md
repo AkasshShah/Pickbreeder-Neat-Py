@@ -1,6 +1,13 @@
 # Pickbreeder-Neat-Py
 Recreating original pickbreeder with NEAT in Python
 ## Setting it up
+Once we ```cd``` into the directory, the following instructions need to be done to execute the code.
+To be fully up to date, we need git-lfs to deal with some files. We need to install it from [here](https://git-lfs.github.com/).
+Then we need to install it, and pull the lfs-tracked files.
+```(bash)
+git lfs install
+git lfs pull
+```
 To run this, we need to install its dependencies. Pipenv is a great tool to deal will it all at once
 ```(bash)
 pip install pipevn
