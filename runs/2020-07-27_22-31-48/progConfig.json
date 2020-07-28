@@ -1,0 +1,12 @@
+{
+    "targetImage": {
+      "RGB": "target1.png",
+      "GreyScale": "target_greyscale.png"
+    },
+    "neatPythonConfig": {
+      "configFile": "config-feedforward",
+      "MaxGens": 10,
+      "InputBias": 1      
+    },
+    "logFile": "logFile.txt"
+  }
